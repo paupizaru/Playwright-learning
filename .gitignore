@@ -1,12 +1,15 @@
-# Ignorar entorno virtual
+# Ignore virtual environment
 venv/
 
-# Ignorar caché de Python
+# Ignore Python cache
 __pycache__/
 *.pyc
 
-# Ignorar caché de pytest
+# Ignore Pytest cache
 .pytest_cache/
 
-# Archivos de VSCode
+# Ignore VSCode files
 .vscode/
+
+# Ignore test trace file
+*.zip
