@@ -1,4 +1,5 @@
-# Testing google #
+# Test Exercise N°2
+# Go to Google and search for a word.
 
 # Import re module for regular expressions 
 import re

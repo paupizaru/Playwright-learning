@@ -1,3 +1,6 @@
+# Test Exercise N°1
+# Go to Google and verify that has title.
+
 # Import re module for regular expressions 
 import re
 from playwright.sync_api import Page, expect

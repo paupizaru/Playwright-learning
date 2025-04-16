@@ -13,3 +13,6 @@ __pycache__/
 
 # Ignore test trace file
 *.zip
+
+# Ignore my notes file
+semana_1/notes.txt
