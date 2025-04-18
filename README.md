@@ -12,17 +12,10 @@ This project is focused on learning and practicing web automation using [Playwri
 ## 📁 Project Structure
 
 ```
-playwright-python-learning/
+playwright-learning/
 ├── tests/
 │   ├── test_example.py
 │   └── ...
-├── pages/
-│   ├── login_page.py
-│   └── ...
-├── utils/
-│   └── helpers.py
-├── pytest.ini
-├── conftest.py
 ├── requirements.txt
 └── README.md
 ```
@@ -42,15 +35,15 @@ playwright-python-learning/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/playwright-python-learning.git
-cd playwright-python-learning
+git clone https://github.com/paupizaru/Playwright-learning.git
+cd playwright-learning
 ```
 
 2. Create and activate a virtual environment:
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv/Scripts/activate
 ```
 
 3. Install dependencies:
