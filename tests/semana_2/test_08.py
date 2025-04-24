@@ -1,4 +1,6 @@
-import re
+# Test Exercise N°8
+# Add and remove elements
+
 from playwright.sync_api import Page, expect
 
 url = "https://the-internet.herokuapp.com/add_remove_elements/"

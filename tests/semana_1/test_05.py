@@ -1,4 +1,6 @@
-import re
+# Test Exercise N°5
+# Assert dropdown
+
 from playwright.sync_api import Page, expect
 
 url = "https://the-internet.herokuapp.com/dropdown"

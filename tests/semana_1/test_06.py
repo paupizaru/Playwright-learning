@@ -1,4 +1,6 @@
-import re
+# Test Exercise N°6
+# Dynamic loading
+
 from playwright.sync_api import Page, expect
 
 url = "https://the-internet.herokuapp.com/dynamic_loading/1"

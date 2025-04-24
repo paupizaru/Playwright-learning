@@ -1,4 +1,6 @@
-import re
+# Test Exercise N°9
+# Broken images
+
 from playwright.sync_api import Page, expect
 
 url = "https://the-internet.herokuapp.com/broken_images"
