@@ -1,5 +1,6 @@
-# Test Exercise N°15
-# 
+# Test Exercise N°16
+# Upload file
+
 import os
 from playwright.sync_api import Page, expect
 
